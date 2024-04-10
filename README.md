@@ -6,69 +6,39 @@ Let's go to start the bot for trading cryptocurrency!
 
 Precautions:
 
-
-
 1. Operating environment: Windows system, office 2007 and later versions or WPS with VBA can basically run. Excel needs to start macros to run Excel trading bot;
-
-
 
 2. Anti-virus software may report false alarms. It is recommended to turn off the anti-virus software or add okex_exe to the trust list. The program does not have any backdoors, so please feel free to use it;
 
-
-
 3. Make sure that the computer can access okx.com or binance.com. If it cannot be accessed, please set up VPN to access or modify the host to the okx.com or binance.com exchange in some areas;
-
-
 
 4. Please delete any content in rows 1-11 in the table, otherwise it will cause software exception.
 
-
-
 5. This software only provides a packaged trading interface and cannot guarantee profits although the crypto trading bot performs better than similar strategies. All profits are based on the user's parameter settings. We are not responsible for any losses caused.
-
-
 
 It is recommended to use demo trading to familiarize yourself with the excel trading bot firstly. Let's take demo trading of okx as an example to explain how to start automatic strategy trading:
 
-
-
 1). Obtain okx API : Log in to the okx web version and open https://www.okx.com/cn/account/my-api;
-
-
 
 2). Click to apply for the V5 API key, enter the password, checkbox the trade, and do not check the withdrawal, to avoid API leakage resulting in loss of funds. In addition, you can bind the IP to improve the security of the API;
 
-
-
 3). Open the aijiebot trading bot software and click the API Settings button;
-
-
 
 4). Fill in the API key, secret key and password of the API creation page into apikey, apisecre and PASSHRASE respectively;
 
-
-
 5). Select the OKEX main site (real trading) or test site (demo trading), click API Settings, and the API is successfully set;
-
-
 
 6). Click the parameter setting button and set the strategy parameters in the pop-up window (currently only USDT-based contracts are supported, and the contract code format is btc-usdt-swap);
 
-
-
 7). Pull down the trading strategy and select the strategy. There are currently three optional strategies (grid, Martin-like and hybrid strategies). Click on the lower right corner of the pop-up window to set parameters;
 
-
-
 8). Finally, click the Start Strategy button to start automatic crypto strategy trading.
-
-
 
 Software download address: https://github.com/aijiebots/office-crypto-bot/tree/main
 
 
 
-The graphics tutorial as followed, details please go to http://aijiebot.com/allarticle_1
+The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1
 
 ![001](https://github.com/aijiebots/office-crypto-bot/assets/166122673/1fa872a7-0600-4c1e-bd51-d3ed3adeacfd)
 ![002](https://github.com/aijiebots/office-crypto-bot/assets/166122673/af52fc8a-818c-4de1-b5ca-04ea85e5fce7)
