@@ -2,7 +2,19 @@ An Excel AI Crypto Trading Bot including okx and binance trading bot makes you w
 
 Let's go to start the bot for trading cryptocurrency!
 
+The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1?github
 
+aijiebots office excel crypto trading bots tutorial 1:System requirements http://aijiebot.com/en/wenzhang/322?github
+
+aijiebots office excel crypto trading bots tutorial 2:pre-configuration  http://aijiebot.com/en/wenzhang/323?github
+
+aijiebots office excel crypto trading bots tutorial 3:How to configure OKX API? http://aijiebot.com/en/wenzhang/324?github
+
+aijiebots office excel crypto trading bots tutorial 4:How to configure binance API?  http://aijiebot.com/en/wenzhang/325?github
+
+aijiebots office excel crypto trading bots tutorial 5:How to set parameters? http://aijiebot.com/en/wenzhang/326?github
+
+aijiebots office excel crypto trading bots tutorial 6:How to backtest?  http://aijiebot.com/en/wenzhang/327?github
 
 Precautions:
 
@@ -36,9 +48,6 @@ It is recommended to use demo trading to familiarize yourself with the excel tra
 
 Software download address: https://github.com/aijiebots/office-crypto-bot/tree/main
 
-
-
-The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1
 
 ![001](https://github.com/aijiebots/office-crypto-bot/assets/166122673/1fa872a7-0600-4c1e-bd51-d3ed3adeacfd)
 ![002](https://github.com/aijiebots/office-crypto-bot/assets/166122673/af52fc8a-818c-4de1-b5ca-04ea85e5fce7)
