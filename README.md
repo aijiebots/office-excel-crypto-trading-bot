@@ -1,6 +1,6 @@
 An Excel AI Crypto Trading Bot including okx and binance trading bot makes you work and trade in the office at the same time. It is not only a completely free auto trading platform, but also its backtest data is basically close to the real market, more free parameter settings and better order logic, lower trading losses and higher profits better than 80% of the same type of bot strategies, supporting custom calling of trading functions, run in a pure office environment, no need to install additional programs, suitable for beginners to get started with crypto bot trading, and also assist in placing orders by manual for traders!
 
-Let's go to start the bot for trading cryptocurrency!
+Let's go to start the bot for trading cryptocurrency! →  http://aijiebot.com/en/wenzhang/321?github
 
 The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1?github
 
