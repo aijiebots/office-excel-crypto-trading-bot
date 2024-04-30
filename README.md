@@ -4,17 +4,17 @@ Let's go to start the bot for trading cryptocurrency! →  http://aijiebot.com/e
 
 The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1?github
 
-aijiebots office excel crypto trading bots tutorial 1:System requirements http://aijiebot.com/en/wenzhang/322?github
+excel crypto trading bots tutorial 1:System requirements http://aijiebot.com/en/wenzhang/322?github
 
-aijiebots office excel crypto trading bots tutorial 2:pre-configuration  http://aijiebot.com/en/wenzhang/323?github
+excel crypto trading bots tutorial 2:pre-configuration  http://aijiebot.com/en/wenzhang/323?github
 
-aijiebots office excel crypto trading bots tutorial 3:How to configure OKX API? http://aijiebot.com/en/wenzhang/324?github
+excel crypto trading bots tutorial 3:How to configure OKX API? http://aijiebot.com/en/wenzhang/324?github
 
-aijiebots office excel crypto trading bots tutorial 4:How to configure binance API?  http://aijiebot.com/en/wenzhang/325?github
+excel crypto trading bots tutorial 4:How to configure binance API?  http://aijiebot.com/en/wenzhang/325?github
 
-aijiebots office excel crypto trading bots tutorial 5:How to set parameters? http://aijiebot.com/en/wenzhang/326?github
+excel crypto trading bots tutorial 5:How to set parameters? http://aijiebot.com/en/wenzhang/326?github
 
-aijiebots office excel crypto trading bots tutorial 6:How to backtest?  http://aijiebot.com/en/wenzhang/327?github
+excel crypto trading bots tutorial 6:How to backtest?  http://aijiebot.com/en/wenzhang/327?github
 
 Precautions:
 
