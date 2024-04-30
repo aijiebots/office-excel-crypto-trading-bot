@@ -16,6 +16,8 @@ excel crypto trading bots tutorial 5:How to set parameters? http://aijiebot.com/
 
 excel crypto trading bots tutorial 6:How to backtest?  http://aijiebot.com/en/wenzhang/327?github
 
+中文说明：→  http://aijiebot.com/wenzhang/314?github
+
 Precautions:
 
 1. Operating environment: Windows system, office 2007 and later versions or WPS with VBA can basically run. Excel needs to start macros to run Excel trading bot;
