@@ -4,7 +4,7 @@ Let's go to start the bot for trading cryptocurrency!
 
 The graphics tutorial as followed, details please go to http://aijiebot.com/en/allarticle_1?github
 
-aijiebots office excel crypto trading bots tutorial 1:System requirements http://aijiebot.com/en/wenzhang/321?github
+aijiebots office excel crypto trading bots tutorial 1:System requirements http://aijiebot.com/en/wenzhang/322?github
 
 aijiebots office excel crypto trading bots tutorial 2:pre-configuration  http://aijiebot.com/en/wenzhang/323?github
 
